@@ -1,4 +1,4 @@
-# SparkStreamingAerospikeDBHbase
+# SparkStreamingAerospikeHbase
 
 With better and improving performance, organisations are looking at using data warehouses in real time. The idea of periodic load of data into data warehouses has given rise to continuous load of data in real time. This has been made possible through new capability additions to Big Data artefacts, resulting in enhanced capabilities and better throughput.
 The notion of what is real time does play a role here. The engineering definition of real time is roughly fast enough to be interactive. However, I put a stronger definition.
